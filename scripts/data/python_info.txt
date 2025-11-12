@@ -1,0 +1,19 @@
+Python is a high-level, interpreted programming language known for its simplicity and readability.
+
+Python was created by Guido van Rossum and first released in 1991. It emphasizes code readability
+with its notable use of significant indentation.
+
+Python supports multiple programming paradigms, including procedural, object-oriented, and
+functional programming. It has a comprehensive standard library and a large ecosystem of
+third-party packages.
+
+Common applications of Python include web development with frameworks like Django and Flask,
+data analysis with libraries like pandas and NumPy, machine learning with scikit-learn and
+TensorFlow, and automation scripting.
+
+Python's syntax allows developers to express concepts in fewer lines of code than would be
+possible in languages such as C++ or Java. The language provides constructs intended to enable
+clear programs on both small and large scales.
+
+Python interpreters are available for many operating systems, including Linux, macOS, and Windows.
+The language is dynamically typed and uses automatic memory management.
