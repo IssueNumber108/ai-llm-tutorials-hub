@@ -32,10 +32,11 @@ def chat_with_model(prompt, history=[]):
         return history, history
 
     # Generate response
-    response = llm(prompt)
+    response = llm.invoke(prompt)
 
     # Append to history
-    history.append((prompt, response))
+    history.append({"role": "user", "content": prompt})
+    history.append({"role": "assistant", "content": response})
 
     return history, history
 
